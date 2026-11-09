@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Ash 👋</h1>
 
-<!--
-**Ash-exe-orbit/Ash-exe-orbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Frontend Developer | Backend Integration
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Turning ideas into digital experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+I'm Ash, a developer passionate about building
+responsive websites, interactive experiences and
+functional web applications.
+
+I enjoy combining creative thinking with technical
+problem-solving to bring digital ideas to life.
+
+- 🔭 Currently building: Zuvori
+- 💻 Focus: Frontend development and backend integration
+- 🌱 Exploring: Better ways to build useful digital products
+- 🤝 Open to: Developer opportunities and collaborations
+
+### Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Node.js
+- Supabase
+- SQL
+- Git & GitHub
+
+### Featured Project
+
+**[Zuvori — Your Pace, Your People](https://round-river-ff9f.ehihebolova.workers.dev/)**
+
+A community-first movement platform built around
+walking, jogging, running and connection.
+
+### Connect With Me
+
+- Email: fehihebolo@gmail.com
+- GitHub: [@Ash-exe-orbit](https://github.com/Ash-exe-orbit)
+- Portfolio: Coming soon.
+
+---
+
+<p align="center">
+  <i>Building, learning and creating — one project at a time.</i>
+</p>
